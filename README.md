@@ -8,6 +8,9 @@
     ~~~sh
     console: https://console-openshift-console.apps.cluster-68cc.68cc.sandbox311.opentlc.com/
     api: https://api.cluster-68cc.68cc.sandbox311.opentlc.com:6443
+    
+    oc login https://api.cluster-68cc.68cc.sandbox311.opentlc.com:6443 -u <user> -p <password>
+
     ~~~
     
     
@@ -20,7 +23,7 @@
 
     ~~~sh
     user cluster admin:
-    - 
+    - opentlc-mgr / ....
     
     user project admin
     - andrew / r3dh4t1!
