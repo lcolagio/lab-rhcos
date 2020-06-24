@@ -2,17 +2,15 @@
 
 
 
-## OCP 4.4
+1. OCP 4.4
 
+~~~sh
+console: https://console-openshift-console.apps.cluster-68cc.68cc.sandbox311.opentlc.com/
+api: https://api.cluster-68cc.68cc.sandbox311.opentlc.com:6443
 
-    ~~~sh
-    console: https://console-openshift-console.apps.cluster-68cc.68cc.sandbox311.opentlc.com/
-    api: https://api.cluster-68cc.68cc.sandbox311.opentlc.com:6443
-    
-    oc login https://api.cluster-68cc.68cc.sandbox311.opentlc.com:6443 -u <user> -p <password>
+oc login https://api.cluster-68cc.68cc.sandbox311.opentlc.com:6443 -u <user> -p <password>
+~~~
 
-    ~~~
-    
     
     ~~~sh
     ssh: ssh <user>@bastion.68cc.sandbox311.opentlc.com
