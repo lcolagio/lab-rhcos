@@ -18,8 +18,8 @@ oc login https://api.cluster-68cc.68cc.sandbox311.opentlc.com:6443 -u <user> -p 
 - andrew / r3dh4t1!
 - karla / r3dh4t1!
 - david / r3dh4t1!
-- user1 / openshift
-- user2 / openshift
+- user1 / r3dh4t1!
+- user2 / r3dh4t1!
 ~~~
 
 
