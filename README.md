@@ -1,16 +1,15 @@
 # lab-rhcos
 
-
 1. OCP Platform 4.4
 
 ~~~sh
 # Web console
-https://console-openshift-console.apps.cluster-68cc.68cc.sandbox311.opentlc.com/
+https://console-openshift-console.apps.cluster-93fe.93fe.sandbox1405.opentlc.com/
 ~~~
 
 ~~~sh
 # oc Client
-oc login https://api.cluster-68cc.68cc.sandbox311.opentlc.com:6443 -u <user> -p <password>
+oc login https://api.cluster-93fe.93fe.sandbox1405.opentlc.com:6443 -u <user> -p <password>
 ~~~
 
 ~~~sh
